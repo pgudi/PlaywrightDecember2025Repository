@@ -1,0 +1,3 @@
+This Test is responsibel for Creating Customer Resource in the Server using Post Request
+custoemr Id :93
+Customer Response :{"customerId":93,"customerNumber":14,"customerName":"Dell Services","emailId":"services@dell.com","location":"Bangalore","customerDescription":"Provides Services on Laptops","createdAt":"2026-03-01T03:06:17.934+00:00","updatedAt":"2026-03-01T03:06:17.934+00:00"}

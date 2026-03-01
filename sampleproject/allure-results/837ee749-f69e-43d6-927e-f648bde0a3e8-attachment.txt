@@ -1,0 +1,2 @@
+This Function is responsible for deleting Customer
+Customer Delete Content :The Customer with customer Id 81 has deleted successfully

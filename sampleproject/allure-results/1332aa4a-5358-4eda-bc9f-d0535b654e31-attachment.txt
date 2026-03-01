@@ -1,0 +1,2 @@
+This Function is responsible for displaying Customer
+Customer Display Content :{"customerId":81,"customerNumber":14,"customerName":"TestCustomer001","emailId":"testcustomer004@gmail.com","location":"Belguam","customerDescription":"Provides suppport on Education Sector","createdAt":"2026-02-28T16:44:00.066+00:00","updatedAt":"2026-02-28T16:44:00.066+00:00"}
