@@ -1,0 +1,3 @@
+This Function is responsible for Creating Customer
+Customer response :{"timestamp":"2026-02-28T16:30:49.71086429","status":409,"error":"Duplicate Resource","message":"Customer with this email testcustomer004@gmail.com already exists for this user pgudi"}
+Customer ID :undefined

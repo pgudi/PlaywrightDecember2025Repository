@@ -1,0 +1,2 @@
+This Test is responsibel for Deleting Customer Resource from Server using Delete Request
+Customer Response :The Customer with customer Id 94 has deleted successfully

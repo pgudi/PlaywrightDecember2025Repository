@@ -1,0 +1,125 @@
+{
+  "config": {
+    "configFile": "C:\\PlaywrightQARepository3\\CurrentWorkSpace\\PlaywrightDecember2025Repository\\sampleproject\\playwright.config.js",
+    "rootDir": "C:/PlaywrightQARepository3/CurrentWorkSpace/PlaywrightDecember2025Repository/sampleproject/tests",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "json",
+        {
+          "outputFile": "results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "C:/PlaywrightQARepository3/CurrentWorkSpace/PlaywrightDecember2025Repository/sampleproject/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "chromium",
+        "name": "chromium",
+        "testDir": "C:/PlaywrightQARepository3/CurrentWorkSpace/PlaywrightDecember2025Repository/sampleproject/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "missing",
+    "updateSourceMethod": "patch",
+    "version": "1.57.0",
+    "workers": 2,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "loginlogout.spec.js",
+      "file": "loginlogout.spec.js",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "Login Logout application Test",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 30000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "chromium",
+              "projectName": "chromium",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 25424,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-02-14T04:50:26.950Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "C:\\PlaywrightQARepository3\\CurrentWorkSpace\\PlaywrightDecember2025Repository\\sampleproject\\test-results\\loginlogout-Login-Logout-application-Test-chromium\\test-finished-1.png"
+                    },
+                    {
+                      "name": "video",
+                      "contentType": "video/webm",
+                      "path": "C:\\PlaywrightQARepository3\\CurrentWorkSpace\\PlaywrightDecember2025Repository\\sampleproject\\test-results\\loginlogout-Login-Logout-application-Test-chromium\\video.webm"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "C:\\PlaywrightQARepository3\\CurrentWorkSpace\\PlaywrightDecember2025Repository\\sampleproject\\test-results\\loginlogout-Login-Logout-application-Test-chromium\\trace.zip"
+                    }
+                  ]
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "5b36919a038f8dccdf1a-2835f0e168d024f9523c",
+          "file": "loginlogout.spec.js",
+          "line": 3,
+          "column": 1
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-02-14T04:50:25.522Z",
+    "duration": 31002.824,
+    "expected": 1,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

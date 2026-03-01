@@ -1,0 +1,1 @@
+Customer response :{"timestamp":"2026-02-28T16:19:26.747565006","status":409,"error":"Duplicate Resource","message":"Customer with this email testcustomer003@gmail.com already exists for this user pgudi"}

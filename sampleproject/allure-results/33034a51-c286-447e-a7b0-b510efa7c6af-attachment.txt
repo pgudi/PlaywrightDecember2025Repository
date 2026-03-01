@@ -1,0 +1,2 @@
+This Function is responsible for deleting Customer
+Customer Delete Content :[object Promise]

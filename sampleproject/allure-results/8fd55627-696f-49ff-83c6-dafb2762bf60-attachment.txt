@@ -1,0 +1,2 @@
+This Test is responsibel for Fetching Customer Resource from Server using Post Request
+Customer Response :{"customerId":86,"customerNumber":14,"customerName":"Dell Services","emailId":"services@dell.com","location":"Bangalore","customerDescription":"Provides Services on Laptops","createdAt":"2026-03-01T02:40:05.933+00:00","updatedAt":"2026-03-01T02:40:05.933+00:00"}
